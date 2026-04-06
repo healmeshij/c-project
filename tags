@@ -1,0 +1,24 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_EXCMD	mixed	/number, pattern, mixed, or combineV2/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
+!_TAG_PROC_CWD	/home/linux/Desktop/project1.0/	//
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	5.9.0	//
+__anon0d38083b0103	main.c	/^enum{$/;"	g	file:
+__anon0d38083b0203	main.c	/^enum{$/;"	g	file:
+customer	main.c	/^	customer,$/;"	e	enum:__anon0d38083b0103	file:	access:public
+list	main.c	/^	list = 1,$/;"	e	enum:__anon0d38083b0203	file:	access:public
+main	main.c	/^int main(int argc, const char *argv[]){$/;"	f	typeref:typename:int	signature:(int argc,const char * argv[])
+menu_merchant	main.c	/^void menu_merchant();$/;"	p	typeref:typename:void	file:	signature:()
+menu_merchant	main.c	/^void menu_merchant(){$/;"	f	typeref:typename:void	signature:()
+merchant	main.c	/^	merchant = 1,$/;"	e	enum:__anon0d38083b0103	file:	access:public
+modify	main.c	/^	modify,$/;"	e	enum:__anon0d38083b0203	file:	access:public
+purchase	main.c	/^	purchase,$/;"	e	enum:__anon0d38083b0203	file:	access:public
+quit	main.c	/^	quit,$/;"	e	enum:__anon0d38083b0203	file:	access:public
+sales	main.c	/^	sales,$/;"	e	enum:__anon0d38083b0203	file:	access:public
+一级页面角色功能实现	README.md	/^# 一级页面角色功能实现$/;"	c
